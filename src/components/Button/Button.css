@@ -1,0 +1,8 @@
+.main-button {
+border-radius: 5px;
+padding: 8px 10px;
+cursor: pointer;
+font-size: 14px;
+background-color: rgb(240, 17, 155);
+border: none;
+}

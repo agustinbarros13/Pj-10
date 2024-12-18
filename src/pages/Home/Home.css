@@ -1,0 +1,22 @@
+.hero {
+  text-align: center;
+  padding: 50px;
+  background: url("https://via.placeholder.com/1200x300") no-repeat center;
+  background-size: cover;
+  color: white;
+}
+.categories {
+  padding: 20px;
+}
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+.category-card {
+  text-align: center;
+}
+.category-card img {
+  width: 100%;
+  border-radius: 10px;
+}
